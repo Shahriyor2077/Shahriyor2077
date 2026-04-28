@@ -6,7 +6,7 @@ Building modern web applications with clean architecture, scalable backend syste
 
 📞 +998 91 012 20 77  
 📧 zaripovshahriyor91@gmail.com  
-🌐 Portfolio: My-Portfolio  
+🌐 Portfolio: https://shahriyor-uz.vercel.app/  
 💻 GitHub: github.com/Shahriyor2077
 
 ---
